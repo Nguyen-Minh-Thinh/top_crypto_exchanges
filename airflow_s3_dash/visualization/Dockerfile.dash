@@ -1,0 +1,8 @@
+FROM python:3.9
+
+COPY ./visualization /visualization
+
+RUN pip install -r /visualization/requirements.txt
+
+CMD ["python", "/visualization/dash_app.py"]
+EXPOSE 8050

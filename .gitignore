@@ -1,0 +1,9 @@
+airflow_s3_dash/Install_command.txt
+airflow_s3_dash/Note.txt
+airflow_s3_dash/test.ipynb
+airflow_s3_dash/test.py
+airflow_s3_dash/.env
+airflow_s3_dash/venv
+airflow_s3_dash/airflow-infor/
+minio_storage/.env
+minio_storage/venv
