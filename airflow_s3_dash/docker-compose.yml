@@ -5,7 +5,6 @@ services:
     build: 
       context: .
       dockerfile: Dockerfile.airflow
-    container_name: coin_project_airflow
     restart: always
     volumes:
       - ./data:/opt/airflow/data
@@ -20,7 +19,6 @@ services:
     build:
       context: .
       dockerfile: ./visualization/Dockerfile.dash
-    container_name: coin_project_dash_app
     restart: always
     volumes:
       - ./visualization:/visualization
