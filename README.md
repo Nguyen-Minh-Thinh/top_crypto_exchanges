@@ -1,9 +1,4 @@
-# Top Crypto Exchanges
+# Top Crypto Exchanges Project
 
 ## Introduction
-This project is used to crawl data from API and visualize the top of crypto exchanges around the world. And in this project, you can practice your knowledge by applying technologies such as Docker, S3(Minio), Apache Airflow, Python, Dash Plotly, ...
-
-## Installation
-### 1. Clone this repository
-### 2. Set up environment
-### 3. Build images and start container
+The "Top Crypto Exchanges Project" is designed to automate the collection and transformation of data from cryptocurrency exchange APIs. Utilizing Docker for containerization, Airflow for workflow orchestration, and MinIO for scalable storage, the project streamlines data management and integration. Dash and Plotly are employed to build interactive dashboards that provide up-to-date insights from daily data updates.
