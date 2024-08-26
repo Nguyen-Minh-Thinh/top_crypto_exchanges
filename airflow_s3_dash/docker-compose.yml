@@ -1,0 +1,33 @@
+# version: '2.27'
+
+services:
+  airflow-container:
+    build: 
+      context: .
+      dockerfile: ./Dockerfile.airflow
+    restart: always
+    volumes:
+      - ./data:/opt/airflow/data
+      - ./dags:/opt/airflow/dags
+      - ./tasks:/opt/airflow/tasks
+      - ./.env:/opt/airflow/.env
+    ports:
+      - 8080:8080
+    command: bash -c '(airflow db init && airflow users create --username ${AIRFLOW_USER_NAME} --password ${AIRFLOW_USER_PASSWORD} --firstname ${AIRFLOW_USER_FIRSTNAME} --lastname ${AIRFLOW_USER_LASTNAME} --role Admin --email ${AIRFLOW_USER_EMAIL}); airflow webserver & airflow scheduler'
+  dash-app:
+    build:
+      context: .
+      dockerfile: ./visualize_data/Dockerfile.dash
+    restart: always
+    volumes:
+      - ./visualize_data:/tmp/visualize_data
+      - ./.env:/tmp/.env
+    ports:
+      - 8050:8050
+  
+
+volumes:
+  dags:
+  data:
+  visualization:
+  airflow-infor:

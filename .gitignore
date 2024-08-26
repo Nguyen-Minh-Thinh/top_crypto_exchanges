@@ -1,0 +1,4 @@
+airflow_s3_dash/dags/__pycache__
+airflow_s3_dash/.env
+minio/.env
+venv

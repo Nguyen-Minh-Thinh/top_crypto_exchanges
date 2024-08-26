@@ -1,0 +1,17 @@
+FROM python:3.9
+
+WORKDIR /tmp
+
+COPY ./requirements.txt ./requirements.txt
+
+COPY ./visualize_data ./visualize_data
+
+COPY ./.env ./.env
+
+# RUN command just run when build image
+RUN pip install -r ./requirements.txt
+
+# CMD command will each time the container starts
+CMD ["python", "./visualize_data/dash_app.py"]
+
+EXPOSE 8050
