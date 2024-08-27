@@ -1,52 +1,51 @@
 rank,exchangeId,name,percentTotalVolume,updated,exchangeUrl
-1,binance,Binance,33.554,2024-08-26 21:55:39,https://www.binance.com/
-2,crypto,Crypto.com Exchange,9.544,2024-08-26 21:55:26,https://api.crypto.com/
-3,gdax,Coinbase Pro,8.014,2024-08-26 21:55:39,https://pro.coinbase.com/
-4,whitebit,WhiteBIT,6.771,2024-08-26 21:55:33,https://whitebit.com
-5,digifinex,DigiFinex,4.775,2024-08-26 21:55:38,https://www.digifinex.com/
-6,huobi,Huobi,4.147,2024-08-26 21:55:38,https://www.hbg.com/
-7,gate,Gate,4.095,2024-08-26 21:55:39,https://gate.io/
-8,bitmax,AscendEX (Bitmax),3.825,2024-08-26 21:55:15,https://www.bitmax.io/
-9,probit,ProBit,3.209,2024-08-26 21:55:38,https://www.probit.com/en-us/
-10,kraken,Kraken,2.992,2024-08-26 21:55:39,https://kraken.com
-11,lbank,LBank,2.803,2024-08-26 21:55:01,https://www.lbank.info
-12,kucoin,Kucoin,2.22,2024-08-26 21:55:07,https://www.kucoin.io/
-13,bigone,BigONE,1.83,2024-08-26 21:55:37,https://big.one/
-14,yobit,YoBit,1.579,2024-08-26 21:55:39,https://yobit.net
-15,currency-com,Currency.com,1.534,2024-08-26 21:55:38,https://currency.com/
-16,bibox,Bibox,1.43,2024-08-26 21:55:31,https://www.bibox.com
-17,bitstamp,Bitstamp,1.259,2024-08-26 21:55:38,https://www.bitstamp.net/
-18,tidex,Tidex,1.218,2024-08-26 21:55:39,https://tidex.com/
-19,bitfinex,Bitfinex,0.671,2024-08-26 21:55:16,https://bitfinex.com
-20,dex-trade,Dex-Trade,0.664,2024-08-26 21:55:29,https://dex-trade.com/
-21,hitbtc,HitBTC,0.554,2024-08-26 21:55:20,https://hitbtc.com/
-22,coinex,CoinEx,0.53,2024-08-26 21:54:57,https://www.coinex.com/
-23,coincheck,coincheck,0.439,2024-08-26 21:55:08,coincheck
-24,bitflyer,Bitflyer,0.423,2024-08-26 21:55:18,https://bitflyer.com/
-25,btcturk,BTCTurk,0.354,2024-08-26 21:55:38,https://www.btcturk.com/
-26,gemini,Gemini,0.221,2024-08-26 21:55:38,https://gemini.com/
-27,exmo,Exmo,0.197,2024-08-26 21:54:58,https://www.exmo.com/
-28,independentreserve,Independent Reserve,0.195,2024-08-26 21:55:37,https://www.independentreserve.com/
-29,alterdice,Alterdice,0.168,2024-08-26 21:55:38,https://alterdice.com/
-30,bitkub,Bitkub,0.15,2024-08-26 21:55:38,https://www.bitkub.com/
-31,bitbank,Bitbank,0.109,2024-08-26 21:55:36,https://www.bibank.com
-32,kickex,KickEX,0.094,2024-08-26 21:55:38,https://kickex.com
-33,bitso,Bitso,0.092,2024-08-26 21:54:41,https://www.bitso.com/
-34,mercatox,Mercatox,0.072,2024-08-26 21:54:54,https://mercatox.com/
-35,indodax,Indodax,0.066,2024-08-26 21:55:25,https://indodax.com/
-36,itbit,Itbit,0.06,2024-08-26 21:55:28,https://www.itbit.com/
-37,max-exchange,Max,0.043,2024-08-26 21:55:37,https://max.maicoin.com/
-38,luno,Luno,0.038,2024-08-26 21:55:39,https://www.luno.com/
-39,btcmarket,BTCMarket,0.033,2024-08-26 21:55:21,https://www.btcmarkets.net/
-40,binanceus,Binance.US,0.017,2024-08-26 21:55:18,https://www.binance.us/
-41,btcbox,BTCBOX,0.005,2024-08-26 21:55:11,https://www.btcbox.co.jp
-42,paribu,Paribu,0.004,2024-08-26 21:55:16,https://www.paribu.com/
-43,coinmate,Coinmate,0.002,2024-08-26 21:55:25,https://coinmate.io/
-44,gopax,GOPAX,0.001,2024-08-26 21:55:38,https://www.gopax.co.kr/
-45,cex,Cex,0.001,2024-08-26 21:55:08,https://www.cex.io/
-46,btctradeua,BTC Trade UA,0.0,2024-08-26 21:55:18,https://btc-trade.com.ua/
-73,zaif,Zaif,,2022-10-20 14:15:09,https://zaif.jp/
-55,coinbene,Coinbene,,1970-01-01 08:00:00,https://www.coinbene.com
+1,binance,Binance,33.77,2024-08-27 15:30:44,https://www.binance.com/
+2,crypto,Crypto.com Exchange,10.815,2024-08-27 15:30:00,https://api.crypto.com/
+3,gdax,Coinbase Pro,9.578,2024-08-27 15:30:49,https://pro.coinbase.com/
+4,whitebit,WhiteBIT,7.056,2024-08-27 15:30:48,https://whitebit.com
+5,digifinex,DigiFinex,5.002,2024-08-27 15:30:50,https://www.digifinex.com/
+6,gate,Gate,4.101,2024-08-27 15:30:50,https://gate.io/
+7,kraken,Kraken,3.661,2024-08-27 15:30:49,https://kraken.com
+8,bitmax,AscendEX (Bitmax),3.502,2024-08-27 15:30:42,https://www.bitmax.io/
+9,probit,ProBit,3.4,2024-08-27 15:30:48,https://www.probit.com/en-us/
+10,huobi,Huobi,2.343,2024-08-27 15:30:23,https://www.hbg.com/
+11,kucoin,Kucoin,2.313,2024-08-27 15:30:02,https://www.kucoin.io/
+12,bigone,BigONE,2.103,2024-08-27 15:30:44,https://big.one/
+13,currency-com,Currency.com,1.706,2024-08-27 15:30:50,https://currency.com/
+14,yobit,YoBit,1.447,2024-08-27 15:30:25,https://yobit.net
+15,tidex,Tidex,1.423,2024-08-27 15:30:49,https://tidex.com/
+16,bibox,Bibox,1.188,2024-08-27 15:30:00,https://www.bibox.com
+17,bitstamp,Bitstamp,1.054,2024-08-27 15:30:49,https://www.bitstamp.net/
+18,dex-trade,Dex-Trade,0.719,2024-08-27 15:30:48,https://dex-trade.com/
+19,bitfinex,Bitfinex,0.557,2024-08-27 15:30:50,https://bitfinex.com
+20,coinex,CoinEx,0.547,2024-08-27 15:30:40,https://www.coinex.com/
+21,hitbtc,HitBTC,0.516,2024-08-27 15:30:07,https://hitbtc.com/
+22,lbank,LBank,0.431,2024-08-27 15:30:29,https://www.lbank.info
+23,coincheck,coincheck,0.407,2024-08-27 15:30:49,coincheck
+24,bitflyer,Bitflyer,0.405,2024-08-27 15:30:49,https://bitflyer.com/
+25,gemini,Gemini,0.326,2024-08-27 15:30:50,https://gemini.com/
+26,btcturk,BTCTurk,0.293,2024-08-27 15:29:54,https://www.btcturk.com/
+27,exmo,Exmo,0.24,2024-08-27 15:29:59,https://www.exmo.com/
+28,bitbank,Bitbank,0.184,2024-08-27 15:30:36,https://www.bibank.com
+29,alterdice,Alterdice,0.171,2024-08-27 15:30:49,https://alterdice.com/
+30,bitkub,Bitkub,0.123,2024-08-27 15:30:42,https://www.bitkub.com/
+31,bitso,Bitso,0.118,2024-08-27 15:30:42,https://www.bitso.com/
+32,kickex,KickEX,0.09,2024-08-27 15:30:49,https://kickex.com
+33,independentreserve,Independent Reserve,0.086,2024-08-27 15:30:50,https://www.independentreserve.com/
+34,itbit,Itbit,0.066,2024-08-27 15:30:47,https://www.itbit.com/
+35,mercatox,Mercatox,0.066,2024-08-27 15:29:51,https://mercatox.com/
+36,indodax,Indodax,0.059,2024-08-27 15:30:40,https://indodax.com/
+37,luno,Luno,0.038,2024-08-27 15:30:40,https://www.luno.com/
+38,max-exchange,Max,0.038,2024-08-27 15:30:22,https://max.maicoin.com/
+39,btcmarket,BTCMarket,0.026,2024-08-27 15:30:23,https://www.btcmarkets.net/
+40,binanceus,Binance.US,0.017,2024-08-27 15:30:42,https://www.binance.us/
+41,btcbox,BTCBOX,0.006,2024-08-27 15:30:44,https://www.btcbox.co.jp
+42,paribu,Paribu,0.003,2024-08-27 15:30:50,https://www.paribu.com/
+43,coinmate,Coinmate,0.003,2024-08-27 15:30:32,https://coinmate.io/
+44,gopax,GOPAX,0.001,2024-08-27 15:30:49,https://www.gopax.co.kr/
+45,cex,Cex,0.001,2024-08-27 15:29:56,https://www.cex.io/
+46,btctradeua,BTC Trade UA,0.0,2024-08-27 15:29:56,https://btc-trade.com.ua/
+66,quoine,Quoine,,2024-07-26 18:16:08,https://quoine.com/
 54,blockchain-com,Blockchain.com,,1970-01-01 08:00:00,https://blockchain.com/
 53,bkex,Bkex,,1970-01-01 08:00:00,https://www.bkex.com/
 52,bittrex,Bittrex,,1970-01-01 08:00:00,https://bittrex.com/
@@ -54,21 +53,22 @@ rank,exchangeId,name,percentTotalVolume,updated,exchangeUrl
 49,bithumbglobal,Bithumb Global,,2023-08-18 09:38:55,https://www.bithumb.pro/
 48,bitbay,BitBay,,1970-01-01 08:00:00,https://bitbay.net
 47,zb,ZB,,2022-09-04 11:02:49,https://www.zb.com/
-51,bitrue,Bitrue,,2024-08-26 21:55:37,https://www.bitrue.com/
-72,wazirx,WazirX,,2024-08-26 21:55:18,https://wazirx.com/
-57,exmarkets,ExMarkets,,2024-05-22 22:11:39,https://exmarkets.com/
-58,hotbit,Hotbit,,2023-05-24 16:32:37,https://www.hotbit.io/
-59,kuna,Kuna,,2023-03-02 03:07:40,https://kuna.io/
-60,mxc-com,MXC.COM,,1970-01-01 08:00:00,https://www.mxc.com/
-61,okcoin,OkCoin,,2023-04-13 15:30:33,https://www.okcoin.com
-62,okex,Okex,,1970-01-01 08:00:00,https://www.okex.com/
-63,osmosis,Osmosis,,1970-01-01 08:00:00,https://app.osmosis.zone/
-64,poloniex,Poloniex,,2023-08-16 16:25:23,https://poloniex.com/
-65,qryptos,Liquid,,2024-07-26 18:16:08,https://www.qryptos.com/
-66,quoine,Quoine,,2024-07-26 18:16:08,https://quoine.com/
+72,wazirx,WazirX,,2024-08-27 15:30:30,https://wazirx.com/
+55,coinbene,Coinbene,,1970-01-01 08:00:00,https://www.coinbene.com
 67,sushi,SushiSwap,,2024-06-26 04:32:10,https://sushi.com/
 68,therocktrading,The Rock Trading,,2023-02-18 01:54:57,https://www.therocktrading.com
 69,thorchain,THORChain,,2022-11-14 21:16:36,https://thorchain.org/
 70,uniswap,Uniswap (V2),,2024-06-26 04:32:18,https://www.uniswap.io/
 71,uniswap-v3,Uniswap (V3),,2024-06-26 04:34:03,https://uniswap.org/
+73,zaif,Zaif,,2022-10-20 14:15:09,https://zaif.jp/
+65,qryptos,Liquid,,2024-07-26 18:16:08,https://www.qryptos.com/
+51,bitrue,Bitrue,,2024-08-27 15:30:50,https://www.bitrue.com/
+64,poloniex,Poloniex,,2023-08-16 16:25:23,https://poloniex.com/
+63,osmosis,Osmosis,,1970-01-01 08:00:00,https://app.osmosis.zone/
+62,okex,Okex,,1970-01-01 08:00:00,https://www.okex.com/
+61,okcoin,OkCoin,,2023-04-13 15:30:33,https://www.okcoin.com
+60,mxc-com,MXC.COM,,1970-01-01 08:00:00,https://www.mxc.com/
+59,kuna,Kuna,,2023-03-02 03:07:40,https://kuna.io/
+58,hotbit,Hotbit,,2023-05-24 16:32:37,https://www.hotbit.io/
+57,exmarkets,ExMarkets,,2024-05-22 22:11:39,https://exmarkets.com/
 56,cointiger,CoinTiger,,2024-02-05 13:33:04,https://www.cointiger.com/

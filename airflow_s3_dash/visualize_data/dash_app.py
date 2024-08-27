@@ -18,13 +18,13 @@ app = dash.Dash(__name__)
 endpoint_url = 'http://host.docker.internal:9000'
 access_key = os.getenv('S3_ACCESS_KEY')
 secret_key = os.getenv('S3_SECRET_KEY')
-
+bucket_name = os.getenv('S3_BUCKET_NAME')
 # Initialize client
 s3 = boto3.client('s3',
                   endpoint_url=endpoint_url,
                   aws_access_key_id=access_key,
                   aws_secret_access_key=secret_key)
-bucket_name = 'coin-project-bucket'
+
 file_key = 'coin_data.csv'
 
 def get_data_from_minio():
